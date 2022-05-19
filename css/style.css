@@ -1,0 +1,52 @@
+/* GENERICS */
+
+*{
+    margin: 0 auto;
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+/* HEADER */
+
+header{
+    background-color: transparent;
+    display: flex;
+}
+
+ul {
+    list-style-type: none;
+}
+
+/* MAIN */
+
+.red{
+    background-color: red;
+    height: 100vh;;
+
+}
+
+.green{
+    background-color: green;
+    height: 100vh;;
+
+}
+
+.yellow{
+    background-color: yellow;
+    height: 100vh;;
+    
+}
+
+.column{
+    text-align: center;
+}
+
+
+h2 {
+    font-size: 50px;
+    color: yellow;
+    font-weight: bold;
+}
+
+#green{
+    color: green;
+}
