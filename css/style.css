@@ -10,11 +10,22 @@
 header{
     background-color: transparent;
     position: fixed;
+    height: 50px;
+
 }
 
 .nav-bar{
     display: flex;
+    text-align: right;
+}
+
+a{
     justify-content: flex-end;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    background-color: white;
+    border-radius: 50px;
 }
 
 /* MAIN */
